@@ -1,0 +1,23 @@
+
+/* CSS HEX */
+/* --french-gray: #d0ccd0ff; */
+/* --white: #fbfcffff; */
+/* --wenge: #605856ff; */
+/* --cerulean: #1c6e8cff; */
+/* --charcoal: #274156ff;     */
+
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif; /* imported from google, check 'index.html' */
+  }
+  
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/images/thinking.png");
+    min-height: 100%;
+  }
+  
+  .menu {
+    display: none;
+  }
